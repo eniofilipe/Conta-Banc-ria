@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{226795E9-3BAC-46AE-8883-E3889A9F0D81}|Default">
+  <MonoDevelop.Ide.ItemProperties.ContaBanco PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContaBanco/MainWindow.cs">
+    <Files>
+      <File FileName="ContaBanco/Program.cs" Line="5" Column="2" />
+      <File FileName="ContaBanco/Cadastro.cs" Line="1" Column="1" />
+      <File FileName="ContaBanco/Deposito.cs" Line="1" Column="1" />
+      <File FileName="ContaBanco/Extrato.cs" Line="1" Column="1" />
+      <File FileName="ContaBanco/Saque.cs" Line="1" Column="1" />
+      <File FileName="ContaBanco/BankAccount.cs" Line="1" Column="1" />
+      <File FileName="ContaBanco/Cliente.cs" Line="1" Column="1" />
+      <File FileName="ContaBanco/MainWindow.cs" Line="23" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContaBanco" expanded="True">
+            <Node name="ContaBanco" expanded="True">
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

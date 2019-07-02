@@ -1,0 +1,6 @@
+/home/enio/Projects/ContaBanco/ContaBanco/bin/Debug/ContaBanco.exe
+/home/enio/Projects/ContaBanco/ContaBanco/bin/Debug/ContaBanco.pdb
+/home/enio/Projects/ContaBanco/ContaBanco/obj/x86/Debug/ContaBanco.csprojAssemblyReference.cache
+/home/enio/Projects/ContaBanco/ContaBanco/obj/x86/Debug/ContaBanco.csproj.CoreCompileInputs.cache
+/home/enio/Projects/ContaBanco/ContaBanco/obj/x86/Debug/ContaBanco.exe
+/home/enio/Projects/ContaBanco/ContaBanco/obj/x86/Debug/ContaBanco.pdb

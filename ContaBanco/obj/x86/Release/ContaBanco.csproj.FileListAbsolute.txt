@@ -1,0 +1,3 @@
+/home/enio/Projects/ContaBanco/ContaBanco/bin/Release/ContaBanco.exe
+/home/enio/Projects/ContaBanco/ContaBanco/obj/x86/Release/ContaBanco.csproj.CoreCompileInputs.cache
+/home/enio/Projects/ContaBanco/ContaBanco/obj/x86/Release/ContaBanco.exe

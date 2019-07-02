@@ -1,6 +1,6 @@
 # Conta Bancária
 
-Trabalho final matéria Paradigmas da Computação,Graduação em Ciência da Computação, IFNMG - Campus Montes Claros
+Trabalho final matéria Paradigmas de Programação, Graduação em Ciência da Computação, IFNMG - Campus Montes Claros
 
 ## Descrição
 

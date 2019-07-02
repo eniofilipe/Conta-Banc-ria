@@ -15,4 +15,4 @@ Sistema simples com GUI de cadastro de contas, realização de saque, depósito 
 ## Autores
 
 * **Ênio Filipe** - *Desenvolvimento* - [Ênio Filipe](https://github.com/eniofilipe)
-* **Mirrális Dias** - *Desenvolvimento* - [Mirrális Dias]()
+* **Mirrális Dias** - *Desenvolvimento* - [Mirrális Dias](https://github.com/MirrasHue)
